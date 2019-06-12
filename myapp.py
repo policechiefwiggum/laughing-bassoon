@@ -1,3 +1,4 @@
-name = "Pete"
+print(input("Whats's your full name?: "))
+name=input(str.split(" "))
 
-print(f"Hi {name}")
+print(name)
